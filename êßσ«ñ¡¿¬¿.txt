@@ -1,0 +1,9 @@
+Калькулятор (модули MhcFS.dpr, UMHCFS.pas,ThFlash.pas, ThFortFunc.pas)
+использует также  компилятор формул 'Foreval' v.8.4.9
+(Lib.pas,Foreval_HD.pas,Compilator.pas,CommandC.pas) и модуль вычислительных алгоритмов
+(OpenML.pas)(не доведён до конца :) )
+
+Foreval может быть скомпилирован в библиотеку .dll(Foreval.dpr,Lib.pas,Foreval_HD.pas,
+Compilator.pas,CommandC.pas)
+ (Foreval.pas - интерфейсный модуль Foreval.dll) 
+
